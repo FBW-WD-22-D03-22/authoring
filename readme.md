@@ -11,4 +11,14 @@
 ## Link
 
 ## Intern
-[Checkboxes][#checkboxes]  
+[Checkboxes](#Checkboxes)  
+
+## Extern
+[Google-Link](https://www.google.de)
+
+![Pinguin](/images/logo.png)
+
+## Emojis
+
+:laugh: 
+:bowtie: 
