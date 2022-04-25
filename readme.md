@@ -11,7 +11,7 @@
 ## Link
 
 ## Intern
-[Checkboxes](#Checkboxes)  
+[Checkboxes](Checkboxes)  
 
 ## Extern
 [Google-Link](https://www.google.de)
@@ -28,4 +28,4 @@
 
 | Vorname | Nachname | Geburtstag | Pronomen |  
 | ---     |---       |---         |---       | 
-|Schwarma | Dürüm    | 30.02.2115 | They/Them|
+|Schawarma | Dürüm    | 30.02.2115 | They/Them|
