@@ -26,4 +26,6 @@
 
 ## Tabellen
 
-| Vorname | Nachname | Geburtstag | Pronomen | Telefonnummer | | | |
+| Vorname | Nachname | Geburtstag | Pronomen |  
+| ...     | ...      | ...        |...       | 
+|Schwarma | Dürüm    | 30.02.2115 | They/Them|
